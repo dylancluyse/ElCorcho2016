@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62db67b8-6300-4b9e-8591-496c4e8ba87b" name="Default" comment="" />
+    <ignored path="elcorcho.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="elcorcho" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="aanmakenblog.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/aanmakenblog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <marker date="1465746464404" expanded="true" signature="4376:4516" ph="INSERT INTO tblblog... " />
+                <marker date="1465746464404" expanded="true" signature="6833:6899" ph="INSERT INTO tblblogfoto... " />
+                <marker date="1465746464404" expanded="true" signature="9173:9194" ph="SELECT * FRO... tblblog" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accesscontrol.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/accesscontrol.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <marker date="1465732328206" expanded="true" signature="603:652" ph="SELECT * FRO... tbladmin" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showprod.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/showprod.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="522" column="62" selection-start-line="522" selection-start-column="62" selection-end-line="522" selection-end-column="62" />
+              <folding>
+                <marker date="1465800215256" expanded="true" signature="6095:6336" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+                <marker date="1465800215256" expanded="true" signature="11291:11353" ph="SELECT prodn... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="12110:12312" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="14222:14388" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="15289:15344" ph="SELECT * FRO... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="17325:17376" ph="SELECT * FRO... tblsmaakprofiel" />
+                <marker date="1465800215256" expanded="true" signature="18083:18135" ph="SELECT * FRO... tblproducent" />
+                <marker date="1465800215256" expanded="true" signature="18864:18907" ph="SELECT * FRO... tblregio" />
+                <marker date="1465800215256" expanded="true" signature="19610:19656" ph="SELECT * FRO... tbldruiven" />
+                <marker date="1465800215256" expanded="true" signature="20347:20401" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="21528:21583" ph="SELECT foton... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="22519:22573" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="26513:26707" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="34743:34978" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="35899:36098" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="36994:37229" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="38152:38361" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="46910:47151" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+                <marker date="1465800215256" expanded="true" signature="52304:52366" ph="SELECT prodn... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="53122:53324" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="55230:55396" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="56297:56352" ph="SELECT * FRO... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="58387:58438" ph="SELECT * FRO... tblsmaakprofiel" />
+                <marker date="1465800215256" expanded="true" signature="59145:59197" ph="SELECT * FRO... tblproducent" />
+                <marker date="1465800215256" expanded="true" signature="59926:59969" ph="SELECT * FRO... tblregio" />
+                <marker date="1465800215256" expanded="true" signature="60672:60718" ph="SELECT * FRO... tbldruiven" />
+                <marker date="1465800215256" expanded="true" signature="61409:61463" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="62590:62645" ph="SELECT foton... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="63581:63635" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="67578:67772" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800215256" expanded="true" signature="75869:76104" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="77021:77220" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="78115:78350" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="79271:79480" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800215256" expanded="true" signature="79312:79480" ph="SELECT COUNT... tblproducten" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="winkelwagentje.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/winkelwagentje.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="556">
+              <caret line="347" column="51" selection-start-line="347" selection-start-column="51" selection-end-line="347" selection-end-column="51" />
+              <folding>
+                <marker date="1465800529087" expanded="true" signature="3963:4204" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+                <marker date="1465800529087" expanded="true" signature="9476:9630" ph="SELECT * FRO... tblproducten" />
+                <marker date="1465800529087" expanded="true" signature="10971:11025" ph="SELECT * FRO... tblprodfoto" />
+                <marker date="1465800529087" expanded="true" signature="18660:18895" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800529087" expanded="true" signature="19738:19937" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800529087" expanded="true" signature="20755:20990" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465800529087" expanded="true" signature="21835:22044" ph="SELECT COUNT... tblproducten" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script-formvalidation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/script-formvalidation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-264">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showbestelling.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/showbestelling.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="622">
+              <caret line="226" column="46" selection-start-line="226" selection-start-column="46" selection-end-line="226" selection-end-column="46" />
+              <folding>
+                <marker date="1465801232749" expanded="true" signature="4649:4731" ph="UPDATE tblbe... " />
+                <marker date="1465801232749" expanded="true" signature="5243:5377" ph="SELECT * FRO... tblbestellingen" />
+                <marker date="1465801232749" expanded="true" signature="5922:5977" ph="SELECT * FRO... tblbetaalwijze" />
+                <marker date="1465801232749" expanded="true" signature="7908:8169" ph="SELECT tblpr... tblprodperbestelling" />
+                <marker date="1465801232749" expanded="true" signature="9034:9079" ph="SELECT * FRO... tblstatus" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aanmakenklant.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aanmakenklant.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-462">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1465298477604" expanded="true" signature="823:847" ph="SELECT * FRO... tblklanten" />
+                <marker date="1465298477604" expanded="true" signature="1498:1923" ph="INSERT INTO tblklanten... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+              <folding>
+                <marker date="1465758708093" expanded="true" signature="4037:4278" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+                <marker date="1465758708093" expanded="true" signature="8945:9009" ph="SELECT * FRO... tblklanten" />
+                <marker date="1465758708093" expanded="true" signature="13822:13876" ph="SELECT * FRO... tblbestellingen" />
+                <marker date="1465758708093" expanded="true" signature="14937:15022" ph="SELECT lever... tblleveringsmogelijkheden" />
+                <marker date="1465758708093" expanded="true" signature="15605:15664" ph="SELECT statu... tblstatus" />
+                <marker date="1465758708093" expanded="true" signature="16269:16442" ph="SELECT * FRO... tblproducten" />
+                <marker date="1465758708093" expanded="true" signature="21580:21815" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465758708093" expanded="true" signature="22658:22857" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465758708093" expanded="true" signature="23675:23910" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465758708093" expanded="true" signature="24755:24964" ph="SELECT COUNT... tblproducten" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account_wijzigen.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account_wijzigen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="141" column="50" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="50" />
+              <folding>
+                <marker date="1465748624539" expanded="true" signature="1608:1940" ph="UPDATE Custo... " />
+                <marker date="1465748624539" expanded="true" signature="1608:1963" ph="UPDATE tblkl... " />
+                <marker date="1465748624539" expanded="true" signature="1608:1982" ph="UPDATE tblkl... " />
+                <marker date="1465748624539" expanded="true" signature="5226:5467" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+                <marker date="1465748624539" expanded="true" signature="10115:10179" ph="SELECT * FRO... tblklanten" />
+                <marker date="1465748624539" expanded="true" signature="20667:20902" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465748624539" expanded="true" signature="21745:21944" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465748624539" expanded="true" signature="22762:22997" ph="SELECT COUNT... tblproducten" />
+                <marker date="1465748624539" expanded="true" signature="23842:24051" ph="SELECT COUNT... tblproducten" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verwijderklant.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/verwijderklant.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding>
+                <marker date="1465801681102" expanded="true" signature="86:148" ph="DELETE FROM " />
+                <marker date="1465801681102" expanded="true" signature="278:343" ph="SELECT beste... tblbestellingen" />
+                <marker date="1465801681102" expanded="true" signature="611:678" ph="DELETE FROM " />
+                <marker date="1465801681102" expanded="true" signature="858:910" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/aanmakenprod.php" />
+        <option value="$PROJECT_DIR$/admin/verwijderklant.php" />
+        <option value="$PROJECT_DIR$/admin/klantlijst.php" />
+        <option value="$PROJECT_DIR$/admin/stock.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigpwd.php" />
+        <option value="$PROJECT_DIR$/index_fr.php" />
+        <option value="$PROJECT_DIR$/showprod_fr.php" />
+        <option value="$PROJECT_DIR$/indexfr.php" />
+        <option value="$PROJECT_DIR$/loginfr.php" />
+        <option value="$PROJECT_DIR$/prodfr.php" />
+        <option value="$PROJECT_DIR$/sendemail_contact.php" />
+        <option value="$PROJECT_DIR$/showprodfr.php" />
+        <option value="$PROJECT_DIR$/mngwinkelwagen.php" />
+        <option value="$PROJECT_DIR$/frandnl.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/admin/include.php" />
+        <option value="$PROJECT_DIR$/admin/include/accesscontrol.php" />
+        <option value="$PROJECT_DIR$/include/accesscontrol.php" />
+        <option value="$PROJECT_DIR$/sendemail.php" />
+        <option value="$PROJECT_DIR$/logincontrole.php" />
+        <option value="$PROJECT_DIR$/toevoegenaanbestelling.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigdruif.php" />
+        <option value="$PROJECT_DIR$/admin/aanmakendruif.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigproducent.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigsmaak.php" />
+        <option value="$PROJECT_DIR$/admin/verwijderblog.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigblog.php" />
+        <option value="$PROJECT_DIR$/admin/aanmakenblog.php" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/account_wijzigen.php" />
+        <option value="$PROJECT_DIR$/blog.php" />
+        <option value="$PROJECT_DIR$/prod.php" />
+        <option value="$PROJECT_DIR$/overons.php" />
+        <option value="$PROJECT_DIR$/showblog.php" />
+        <option value="$PROJECT_DIR$/showcheckout.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/checkout.php" />
+        <option value="$PROJECT_DIR$/include/connection.php" />
+        <option value="$PROJECT_DIR$/account.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigproduct.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigklant.php" />
+        <option value="$PROJECT_DIR$/admin/bestellingen.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigcat.php" />
+        <option value="$PROJECT_DIR$/admin/aanmakencat.php" />
+        <option value="$PROJECT_DIR$/admin/wijzigregio.php" />
+        <option value="$PROJECT_DIR$/showprod.php" />
+        <option value="$PROJECT_DIR$/winkelwagentje.php" />
+        <option value="$PROJECT_DIR$/admin/showbestelling.php" />
+        <option value="$PROJECT_DIR$/verwijderklant.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elcorcho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elcorcho" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elcorcho" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beveiliging" />
+    <property name="SearchEverywhereHistoryKey" value="aanmakenregio.php&#9;FILE&#9;file://C:/xampp/htdocs/elcorcho/admin/aanmakenregio.php" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;HSQLDB (Local)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\elcorcho" />
+      <recent name="C:\xampp\htdocs\elcorcho\admin\script" />
+      <recent name="C:\xampp\htdocs\elcorcho\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\elcorcho\admin\include" />
+      <recent name="D:\XAMPP\htdocs\elcorcho\admin" />
+      <recent name="C:\xampp\htdocs\elcorcho\images\home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.aanmakenproducent.php">
+    <configuration default="false" name="aanmakenproducent.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/elcorcho/admin/aanmakenproducent.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aanmakenproducent.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.aanmakenproducent.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62db67b8-6300-4b9e-8591-496c4e8ba87b" name="Default" comment="" />
+      <created>1461227842185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1461227842185</updated>
+      <workItem from="1464029839357" duration="2012000" />
+      <workItem from="1464087010578" duration="15867000" />
+      <workItem from="1464110350874" duration="13545000" />
+      <workItem from="1464159541874" duration="15353000" />
+      <workItem from="1464194089490" duration="4799000" />
+      <workItem from="1464201994977" duration="1113000" />
+      <workItem from="1464214588437" duration="842000" />
+      <workItem from="1464246518050" duration="19304000" />
+      <workItem from="1464280660042" duration="13156000" />
+      <workItem from="1464331804637" duration="17594000" />
+      <workItem from="1464371798296" duration="2490000" />
+      <workItem from="1464439546385" duration="8229000" />
+      <workItem from="1464518981632" duration="8076000" />
+      <workItem from="1464594629088" duration="2382000" />
+      <workItem from="1464619085463" duration="2492000" />
+      <workItem from="1464639349614" duration="8563000" />
+      <workItem from="1464678209629" duration="26917000" />
+      <workItem from="1464719733577" duration="8681000" />
+      <workItem from="1464764083647" duration="20481000" />
+      <workItem from="1464799236846" duration="4202000" />
+      <workItem from="1464850373120" duration="19332000" />
+      <workItem from="1464873410503" duration="609000" />
+      <workItem from="1464876246367" duration="1840000" />
+      <workItem from="1464904222369" duration="1133000" />
+      <workItem from="1464938560597" duration="14837000" />
+      <workItem from="1464979379001" duration="4159000" />
+      <workItem from="1465042509397" duration="3157000" />
+      <workItem from="1465058052474" duration="14000" />
+      <workItem from="1465130752767" duration="2388000" />
+      <workItem from="1465161721605" duration="624000" />
+      <workItem from="1465195713936" duration="11634000" />
+      <workItem from="1465209190646" duration="9081000" />
+      <workItem from="1465282596967" duration="20357000" />
+      <workItem from="1465336346653" duration="5444000" />
+      <workItem from="1465370098791" duration="15939000" />
+      <workItem from="1465455691985" duration="12946000" />
+      <workItem from="1465510831668" duration="1479000" />
+      <workItem from="1465540031594" duration="575000" />
+      <workItem from="1465541484940" duration="1797000" />
+      <workItem from="1465547209414" duration="1453000" />
+      <workItem from="1465552414752" duration="19678000" />
+      <workItem from="1465638325112" duration="29931000" />
+      <workItem from="1465718099477" duration="5619000" />
+      <workItem from="1465726564444" duration="22885000" />
+      <workItem from="1465757244106" duration="7547000" />
+      <workItem from="1465799274929" duration="2800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="413356000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38366717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sendemail_contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frandnl.php" />
+    <entry file="file://$PROJECT_DIR$/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/include.php" />
+    <entry file="file://$PROJECT_DIR$/admin/include/connection.php" />
+    <entry file="file://$PROJECT_DIR$/admin/include/accesscontrol.php" />
+    <entry file="file://$PROJECT_DIR$/admin/prodlijst.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toevoegenaanwinkelmandje.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/aanmakensmaak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/aanmakendruif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="103" column="127" selection-start-line="103" selection-start-column="127" selection-end-line="103" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigsmaak.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verwijderblog.php" />
+    <entry file="file://$PROJECT_DIR$/admin/verwijdercat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/verwijderblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigproducent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="197" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigdruif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="99" column="98" selection-start-line="99" selection-start-column="96" selection-end-line="99" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
+          <folding>
+            <marker date="1465746049257" expanded="true" signature="979:1055" ph="SELECT foton... tblblogfoto" />
+            <marker date="1465746049257" expanded="true" signature="1325:1392" ph="DELETE FROM " />
+            <marker date="1465746049257" expanded="true" signature="1666:1720" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465746049257" expanded="true" signature="3740:3782" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465746049257" expanded="true" signature="3740:3788" ph="SELECT * FRO... tblblogfoto" />
+            <marker date="1465746049257" expanded="true" signature="4027:4096" ph="INSERT INTO tblprodfoto... " />
+            <marker date="1465746049257" expanded="true" signature="4598:4759" ph="UPDATE tblpr... " />
+            <marker date="1465746049257" expanded="true" signature="4598:4765" ph="UPDATE tblbl... " />
+            <marker date="1465746049257" expanded="true" signature="5195:5233" ph="SELECT * FRO... tblproducten" />
+            <marker date="1465746049257" expanded="true" signature="5195:5239" ph="SELECT * FRO... tblblog" />
+            <marker date="1465746049257" expanded="true" signature="11038:11086" ph="SELECT * FRO... tblblogfoto" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toevoegenaanbestelling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="99" column="38" selection-start-line="99" selection-start-column="38" selection-end-line="99" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mngwinkelwagen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="495" column="0" selection-start-line="495" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="480" column="29" selection-start-line="480" selection-start-column="29" selection-end-line="480" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logincontrole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="56" column="46" selection-start-line="56" selection-start-column="46" selection-end-line="56" selection-end-column="46" />
+          <folding>
+            <marker date="1465736696981" expanded="true" signature="363:425" ph="SELECT * FRO... tblklanten" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addtocart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="511" column="0" selection-start-line="501" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/overons.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8822">
+          <caret line="401" column="14" selection-start-line="401" selection-start-column="14" selection-end-line="401" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29524">
+          <caret line="1342" column="0" selection-start-line="1342" selection-start-column="0" selection-end-line="1352" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendemail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11110">
+          <caret line="505" column="0" selection-start-line="496" selection-start-column="0" selection-end-line="505" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showcheckout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12562">
+          <caret line="571" column="0" selection-start-line="562" selection-start-column="0" selection-end-line="571" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5808">
+          <caret line="264" column="60" selection-start-line="264" selection-start-column="60" selection-end-line="264" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="468" column="35" selection-start-line="468" selection-start-column="35" selection-end-line="468" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigproduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="519" column="60" selection-start-line="519" selection-start-column="60" selection-end-line="519" selection-end-column="60" />
+          <folding>
+            <marker date="1465760416527" expanded="true" signature="989:1071" ph="SELECT foton... tblprodfoto" />
+            <marker date="1465760416527" expanded="true" signature="1345:1418" ph="DELETE FROM " />
+            <marker date="1465760416527" expanded="true" signature="1749:1807" ph="UPDATE tblpr... " />
+            <marker date="1465760416527" expanded="true" signature="2083:2137" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465760416527" expanded="true" signature="4157:4211" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465760416527" expanded="true" signature="4476:4548" ph="INSERT INTO tblprodfoto... " />
+            <marker date="1465760416527" expanded="true" signature="5437:5769" ph="UPDATE tblpr... " />
+            <marker date="1465760416527" expanded="true" signature="6623:6678" ph="SELECT * FRO... tblproducten" />
+            <marker date="1465760416527" expanded="true" signature="12084:12137" ph="SELECT * FRO... tblcategorie" />
+            <marker date="1465760416527" expanded="true" signature="13191:13244" ph="SELECT * FRO... tblproducent" />
+            <marker date="1465760416527" expanded="true" signature="14379:14424" ph="SELECT * FRO... tblregio" />
+            <marker date="1465760416527" expanded="true" signature="15539:15591" ph="SELECT * FRO... tblsmaakprofiel" />
+            <marker date="1465760416527" expanded="true" signature="16691:16738" ph="SELECT * FRO... tbldruiven" />
+            <marker date="1465760416527" expanded="true" signature="20066:20120" ph="SELECT * FRO... tblprodfoto" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="10" selection-start-line="9" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigklant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="44" column="143" selection-start-line="44" selection-start-column="143" selection-end-line="44" selection-end-column="143" />
+          <folding>
+            <marker date="1465762668469" expanded="true" signature="1453:1869" ph="UPDATE tblkl... " />
+            <marker date="1465762668469" expanded="true" signature="6541:6590" ph="SELECT * FRO... tblklanten" />
+            <marker date="1465762668469" expanded="true" signature="9956:10001" ph="SELECT * FRO... tbllanden" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/bestellingen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4268">
+          <caret line="194" column="44" selection-start-line="194" selection-start-column="44" selection-end-line="194" selection-end-column="44" />
+          <folding>
+            <marker date="1465763491953" expanded="true" signature="4931:4984" ph="SELECT * FRO... tblbestellingen" />
+            <marker date="1465763491953" expanded="true" signature="5928:5977" ph="SELECT * FRO... tblklanten" />
+            <marker date="1465763491953" expanded="true" signature="6624:6696" ph="SELECT * FRO... tblleveringsmogelijkheden" />
+            <marker date="1465763491953" expanded="true" signature="7380:7438" ph="SELECT * FRO... tblbetaalwijze" />
+            <marker date="1465763491953" expanded="true" signature="8045:8095" ph="SELECT * FRO... tblstatus" />
+            <marker date="1465763491953" expanded="true" signature="8811:8880" ph="SELECT * FRO... tblprodperbestelling" />
+            <marker date="1465763491953" expanded="true" signature="9455:9510" ph="SELECT * FRO... tblproducten" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigcat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2442">
+          <caret line="111" column="40" selection-start-line="111" selection-start-column="40" selection-end-line="111" selection-end-column="40" />
+          <folding>
+            <marker date="1465763653087" expanded="true" signature="874:961" ph="UPDATE tblca... " />
+            <marker date="1465763653087" expanded="true" signature="5263:5322" ph="SELECT * FRO... tblcategorie" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/aanmakencat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2574">
+          <caret line="117" column="44" selection-start-line="117" selection-start-column="44" selection-end-line="117" selection-end-column="44" />
+          <folding>
+            <marker date="1465763670549" expanded="true" signature="941:1001" ph="INSERT INTO tblcategorie... " />
+            <marker date="1465763670549" expanded="true" signature="5979:6032" ph="SELECT * FRO... tblcategorie" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigregio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <marker date="1465763717432" expanded="true" signature="871:938" ph="UPDATE tblre... " />
+            <marker date="1465763717432" expanded="true" signature="5185:5240" ph="SELECT regio... tblregio" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/wijzigpwd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <marker date="1465644978092" expanded="true" signature="853:901" ph="SELECT * FRO... tbladmin" />
+            <marker date="1465644978092" expanded="true" signature="1403:1474" ph="UPDATE tblad... " />
+            <marker date="1465644978092" expanded="true" signature="5571:5624" ph="SELECT * FRO... tbladmin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/aanmakenblog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1465746464404" expanded="true" signature="4376:4516" ph="INSERT INTO tblblog... " />
+            <marker date="1465746464404" expanded="true" signature="6833:6899" ph="INSERT INTO tblblogfoto... " />
+            <marker date="1465746464404" expanded="true" signature="9173:9194" ph="SELECT * FRO... tblblog" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/accesscontrol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <marker date="1465732328206" expanded="true" signature="603:652" ph="SELECT * FRO... tbladmin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/showprod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="522" column="62" selection-start-line="522" selection-start-column="62" selection-end-line="522" selection-end-column="62" />
+          <folding>
+            <marker date="1465800215256" expanded="true" signature="6095:6336" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+            <marker date="1465800215256" expanded="true" signature="11291:11353" ph="SELECT prodn... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="12110:12312" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="14222:14388" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="15289:15344" ph="SELECT * FRO... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="17325:17376" ph="SELECT * FRO... tblsmaakprofiel" />
+            <marker date="1465800215256" expanded="true" signature="18083:18135" ph="SELECT * FRO... tblproducent" />
+            <marker date="1465800215256" expanded="true" signature="18864:18907" ph="SELECT * FRO... tblregio" />
+            <marker date="1465800215256" expanded="true" signature="19610:19656" ph="SELECT * FRO... tbldruiven" />
+            <marker date="1465800215256" expanded="true" signature="20347:20401" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="21528:21583" ph="SELECT foton... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="22519:22573" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="26513:26707" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="34743:34978" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="35899:36098" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="36994:37229" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="38152:38361" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="46910:47151" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+            <marker date="1465800215256" expanded="true" signature="52304:52366" ph="SELECT prodn... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="53122:53324" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="55230:55396" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="56297:56352" ph="SELECT * FRO... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="58387:58438" ph="SELECT * FRO... tblsmaakprofiel" />
+            <marker date="1465800215256" expanded="true" signature="59145:59197" ph="SELECT * FRO... tblproducent" />
+            <marker date="1465800215256" expanded="true" signature="59926:59969" ph="SELECT * FRO... tblregio" />
+            <marker date="1465800215256" expanded="true" signature="60672:60718" ph="SELECT * FRO... tbldruiven" />
+            <marker date="1465800215256" expanded="true" signature="61409:61463" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="62590:62645" ph="SELECT foton... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="63581:63635" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="67578:67772" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800215256" expanded="true" signature="75869:76104" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="77021:77220" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="78115:78350" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="79271:79480" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800215256" expanded="true" signature="79312:79480" ph="SELECT COUNT... tblproducten" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/winkelwagentje.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="347" column="51" selection-start-line="347" selection-start-column="51" selection-end-line="347" selection-end-column="51" />
+          <folding>
+            <marker date="1465800529087" expanded="true" signature="3963:4204" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+            <marker date="1465800529087" expanded="true" signature="9476:9630" ph="SELECT * FRO... tblproducten" />
+            <marker date="1465800529087" expanded="true" signature="10971:11025" ph="SELECT * FRO... tblprodfoto" />
+            <marker date="1465800529087" expanded="true" signature="18660:18895" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800529087" expanded="true" signature="19738:19937" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800529087" expanded="true" signature="20755:20990" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465800529087" expanded="true" signature="21835:22044" ph="SELECT COUNT... tblproducten" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/script-formvalidation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/showbestelling.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="226" column="46" selection-start-line="226" selection-start-column="46" selection-end-line="226" selection-end-column="46" />
+          <folding>
+            <marker date="1465801232749" expanded="true" signature="4649:4731" ph="UPDATE tblbe... " />
+            <marker date="1465801232749" expanded="true" signature="5243:5377" ph="SELECT * FRO... tblbestellingen" />
+            <marker date="1465801232749" expanded="true" signature="5922:5977" ph="SELECT * FRO... tblbetaalwijze" />
+            <marker date="1465801232749" expanded="true" signature="7908:8169" ph="SELECT tblpr... tblprodperbestelling" />
+            <marker date="1465801232749" expanded="true" signature="9034:9079" ph="SELECT * FRO... tblstatus" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aanmakenklant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465298477604" expanded="true" signature="823:847" ph="SELECT * FRO... tblklanten" />
+            <marker date="1465298477604" expanded="true" signature="1498:1923" ph="INSERT INTO tblklanten... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <marker date="1465758708093" expanded="true" signature="4037:4278" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+            <marker date="1465758708093" expanded="true" signature="8945:9009" ph="SELECT * FRO... tblklanten" />
+            <marker date="1465758708093" expanded="true" signature="13822:13876" ph="SELECT * FRO... tblbestellingen" />
+            <marker date="1465758708093" expanded="true" signature="14937:15022" ph="SELECT lever... tblleveringsmogelijkheden" />
+            <marker date="1465758708093" expanded="true" signature="15605:15664" ph="SELECT statu... tblstatus" />
+            <marker date="1465758708093" expanded="true" signature="16269:16442" ph="SELECT * FRO... tblproducten" />
+            <marker date="1465758708093" expanded="true" signature="21580:21815" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465758708093" expanded="true" signature="22658:22857" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465758708093" expanded="true" signature="23675:23910" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465758708093" expanded="true" signature="24755:24964" ph="SELECT COUNT... tblproducten" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account_wijzigen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="141" column="50" selection-start-line="141" selection-start-column="48" selection-end-line="141" selection-end-column="50" />
+          <folding>
+            <marker date="1465748624539" expanded="true" signature="1608:1940" ph="UPDATE Custo... " />
+            <marker date="1465748624539" expanded="true" signature="1608:1963" ph="UPDATE tblkl... " />
+            <marker date="1465748624539" expanded="true" signature="1608:1982" ph="UPDATE tblkl... " />
+            <marker date="1465748624539" expanded="true" signature="5226:5467" ph="SELECT tblti... tbltijdelijkewinkelwagen" />
+            <marker date="1465748624539" expanded="true" signature="10115:10179" ph="SELECT * FRO... tblklanten" />
+            <marker date="1465748624539" expanded="true" signature="20667:20902" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465748624539" expanded="true" signature="21745:21944" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465748624539" expanded="true" signature="22762:22997" ph="SELECT COUNT... tblproducten" />
+            <marker date="1465748624539" expanded="true" signature="23842:24051" ph="SELECT COUNT... tblproducten" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verwijderklant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1465801681102" expanded="true" signature="86:148" ph="DELETE FROM " />
+            <marker date="1465801681102" expanded="true" signature="278:343" ph="SELECT beste... tblbestellingen" />
+            <marker date="1465801681102" expanded="true" signature="611:678" ph="DELETE FROM " />
+            <marker date="1465801681102" expanded="true" signature="858:910" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
